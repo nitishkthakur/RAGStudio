@@ -4,4 +4,7 @@ langchain-core
 transformers
 pandas
 numpy
-
+langchain-openai
+langchain-community
+faiss-cpu
+graphrag
